@@ -1,8 +1,6 @@
 # Solutions
 
 🌍 Project Title: Empowering Youth Girls Through Skill Development and Digital Enablement
-🔗 GitHub Repository Link:
-[Insert your GitHub repository link here]
 
 📌 Overview
 This project is a community-focused initiative designed to empower young girls in underserved areas—especially in regions like Loralai, Balochistan—by providing them with valuable skills in handcrafting, web development, and basic computer science. The ultimate goal is to enable them to earn from home, start small online businesses, and participate in the digital economy, even with limited resources.
